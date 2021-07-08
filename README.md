@@ -6,10 +6,10 @@
 <font color=#999AAA >提示：以下是本篇文章提供的数据集，代码和结果
 
 # 一、data
-1. clean_data.csv：经清洗，数据预处理，特征构造和选择得到的数据集
+1. clean_data.csv：经清洗，数据预处理，特征构造和选择得到的数据集，此数据集包含13309条数据，18个属性特征
 
 数据信息：
-特征     | Type
+feature     | Type
 -------- | -----
 per_money  | float
 sumAll| float
