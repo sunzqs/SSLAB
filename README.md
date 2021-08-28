@@ -32,11 +32,5 @@ mean_restaurant | float
 2. data850.csv:标记的850条数据
 3. data1500.csv:标记的1500条数据
 
-# 二、code
-1. self_training.py：常规自训练算法
-2. tri_training.py：tri_training算法
-3. SSL_training.py：SSLAB算法
-4. test.py：F1和AUC测试代码
-5. test1.py：accuracy测试代码
-# 三、result
+# 二、result
 实验结果
