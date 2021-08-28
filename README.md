@@ -1,5 +1,5 @@
 # SSLAB
-<font color=#999AAA >为了解决高校贫困生认定问题，考虑到传统认定流程存在的弊端，提出从消费数据层面对贫困生进行分类认定。</font>
+<font color=#999AAA >为了解决高校贫困生认定问题，考虑到传统认定流程存在的弊端，提出从消费数据层面和贫困信息对贫困生进行半监督分类认定。</font>
 
 <hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
 
